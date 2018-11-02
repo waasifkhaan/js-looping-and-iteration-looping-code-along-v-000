@@ -9,9 +9,9 @@ function printBadges(array){
 return array;
 }
 
-
-function tailsNeverFails(){
   let i = 0;
+function tailsNeverFails(){
+
   while (Math.random >= 0.5) {
     i = i + 1;
   }
