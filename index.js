@@ -8,3 +8,10 @@ function printBadges(array){
 }
 return array;
 }
+
+
+function tailsNeverFails(){
+  while (Math.random >= 0.5) {
+      
+  }  
+}
